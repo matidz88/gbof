@@ -17,7 +17,7 @@ public class TemperatureConvertor {
 	  public boolean getInitial(){
 	    return initial;
 	  }
-	  //komentarz
+	 
 	  public String reset (){
 	    initial = true;
 	    fahrenheit =0;
