@@ -13,7 +13,7 @@ public class TemperatureConvertor {
 	  public double getFahrenheit() {
 	    return fahrenheit;
 	  }
-	  
+	  //
 	  public boolean getInitial(){
 	    return initial;
 	  }
